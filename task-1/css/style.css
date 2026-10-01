@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle, #b6b5b5, #f4f4f4);
+    color: #333;
+    max-width: 1240px;
+    margin: auto;
+}
+main{
+    padding: 20px;
+    margin: 20px;
+    h3{
+        margin: 10px;
+        color: #001aff;
+    }
+}
+header{
+    text-align: center;
+    margin: 20px;
+}
+.users-list{
+    margin: 0px 100px;
+}
+footer{
+    text-align: center;
+    margin: 20px;
+}
